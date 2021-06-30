@@ -22,3 +22,6 @@ Jika anda membutuhkan endpoint² lainnya, anda bisa mencoba mengunjungi https://
 
 # Donasi
 Mohon bantuan donasinya yah -> https://saweria.co/bangnopal
+
+# Website
+- [TuruPedia](https://www.turupedia.com)
